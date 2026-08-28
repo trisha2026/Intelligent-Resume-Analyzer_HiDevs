@@ -1,10 +1,11 @@
 {
-  "candidate": "Alice Johnson",
-  "email": "alice@example.com",
-  "experience_years": 4.0,
+  "candidate": "John Doe",
+  "email": "john.doe@example.com",
+  "experience_years": 3.0,
   "matched_skills": [
     "Python",
     "SQL",
+    "Git",
     "Docker"
   ],
   "match_score": 100.0,
